@@ -1,8 +1,8 @@
 ### Editors
 .vscode/
-app
 
 ### C/C++
+bin/
 
 ##### Windows
 # Windows thumbnail cache files
